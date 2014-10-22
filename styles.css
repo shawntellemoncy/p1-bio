@@ -1,0 +1,138 @@
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+a {
+	color: #3ba1ff;
+}
+
+#menu {
+	float: left;
+	font-size: 2em;
+	text-align: left;
+}
+
+header {
+	background: #6ddd9d;
+	border-color: #5cddd9;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+h1, h2, {
+	color: #3ba1de;
+	font-family: 'permanent marker', cursive;
+	text-align: center;
+	text-transform: bold;
+}
+h1 {
+	font-size: 2em;
+	margin: 15px 0;
+	text-align: center;
+}
+h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+	margin: -5px 0 0;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+
+p {
+	font-size: 1.25em;
+	font-family: 'permanent marker', cursive;
+	text-align: center;
+	padding: 40px 0;
+	float: right;
+	width: 43%;
+	margin: 20px;
+}
+
+.profilephoto {
+	width: 35%;
+	max-width: 100%;
+	float: left;
+	border-radius: 20%;
+	margin: 30px;
+	padding: 70px;
+}
+
+
+/*******************************
+NAVIGATION
+********************************/
+
+nav {
+	text-align: center;
+	padding: 10px 0;
+	margin: 20px 0 0;
+}
+
+nav ul {
+	margin: 0;
+	list-style: none;
+	padding 0;
+}
+
+nav a {
+	font-weight: 800;
+	padding: 10px 15px;
+}
+
+body {
+	background-color: #ccffff;
+	color: #3ba1de;
+	font-family: 'permanent marker', cursive;
+}
+
+a.selected, a:hover {
+	color: #ffccff;
+}
+
+.center {
+	font-size: 1.75em;
+}
+/*****************************
+ABOUT
+******************************/
+
+.phototwo {
+	max-width: 100%;
+	width: 26%;
+	float: right;
+	border-radius: 20%;
+	margin: 30px;
+	padding: 70px;
+}
+
+#stuff {
+	font-size: 1em;
+	text-align: center;
+	float: right;
+	margin: 15px;
+	clear: both;
+}
+/*****************************
+FOOTER
+******************************/
+
+footer {
+	font-size: 1em;
+	text-align: left;
+	padding-top: 50px;
+	clear: both;
+}
